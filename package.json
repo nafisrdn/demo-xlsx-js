@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/nafisrdn/demo-xlsx-js/issues"
   },
-  "homepage": "https://github.com/nafisrdn/demo-xlsx-js#readme"
+  "homepage": "https://github.com/nafisrdn/demo-xlsx-js#readme",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
 }
